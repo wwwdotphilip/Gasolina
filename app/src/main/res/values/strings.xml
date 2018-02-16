@@ -18,4 +18,6 @@
     <string name="password">Password</string>
     <string name="username">Username</string>
     <string name="sign_in">Sign In</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
 </resources>
